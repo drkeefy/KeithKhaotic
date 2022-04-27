@@ -5,11 +5,14 @@
 Here's more about me!
 
 💔[YouTuber](https://bit.ly/2VXMxzH)
+
 💜[Twitch Streamer](https://twitch.tv/pgwecn)
+
 🖤[TikToker](https://www.tiktok.com/@keefykliped?lang=en)
+
 💖[Epik Gaymer](https://www.rankone.global/keefy)
 
-Have any questions? Contact me on [Discord](https://dsc.gg/pgwecn)
+Have any questions? Join my [Discord](https://dsc.gg/pgwecn) or my [Guilded](https://guilded.gg/pgwecn)
 
 <3<3<3
 Business: keithbussyness@gmail.com
