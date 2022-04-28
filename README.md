@@ -1,25 +1,34 @@
-# Hi-There
+
+## Howdy!!
 
 👋 My name is Keith Khaotic! I'm a YouTuber, Twitch Streamer, and Content Creator
 
 Here's more about me!
 
+🌟 Femboy 4 Lyfe
+
+👁️ Gamer, Radchad, Writer, and cool kid.
+
+🧸 Fun Fact: I'm actually secretly an Alien in disguise haunting humanity :D
+
+🤗 Training in CSS, HTML, JS, and others!
+
+# Socials
+
 💔[YouTuber](https://bit.ly/2VXMxzH)
-
 💜[Twitch Streamer](https://twitch.tv/pgwecn)
-
 🖤[TikToker](https://www.tiktok.com/@keefykliped?lang=en)
-
 💖[Epik Gaymer](https://www.rankone.global/keefy)
 
 Have any questions? Join my [Discord](https://dsc.gg/pgwecn) or my [Guilded](https://guilded.gg/pgwecn)
 
 <3<3<3
-Business: keithbussyness@gmail.com
-****
 
-<!-- HTML Code -->
-<a href="https://dsc.gg/pgwecn" target="_self"><img src="https://avatars.githubusercontent.com/u/97204495?s=280&v=4" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage"></a>
+# Contact
+
+Business: keithbussyness@gmail.com
+PGWECN: pgwecnproductions@gmail.com
+
 
 
 <!---
