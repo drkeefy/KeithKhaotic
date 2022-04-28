@@ -18,15 +18,6 @@ Have any questions? Join my [Discord](https://dsc.gg/pgwecn) or my [Guilded](htt
 Business: keithbussyness@gmail.com
 ****
 
-<!-- Codes by HTML.am -->
-
-<!-- CSS Code -->
-<style type="text/css" scoped>
-img.GeneratedImage {
-width:300px;height:225px;margin:10px;border-width:6px;border-color:#000000;border-style:solid;
-}
-</style>
-
 <!-- HTML Code -->
 <a href="https://dsc.gg/pgwecn" target="_self"><img src="https://avatars.githubusercontent.com/u/97204495?s=280&v=4" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage"></a>
 
