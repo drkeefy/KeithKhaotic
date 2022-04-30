@@ -14,18 +14,6 @@ Here's more about me!
 🤗 Training in CSS, HTML, JS, and others!
 
 # Socials
-<!-- Codes by HTML.am -->
-
-<!-- CSS Code -->
-<style type="text/css" scoped>
-img.GeneratedImage {
-height:50px;margin:10px;border-width:6px;border-color:#000000;border-style:double;
-}
-</style>
-
-<!-- HTML Code -->
-<a href="https://keefy.carrd.co" target="_self"><img src="https://cdn.discordapp.com/attachments/964640394413482014/969719889264787456/keefyalien.png" alt="KeefyAlien" class="GeneratedImage"></a>
-
 
 
 💔[YouTuber](https://bit.ly/2VXMxzH)
