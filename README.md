@@ -13,8 +13,8 @@ Here's more about me!
 
 🤗 Training in CSS, HTML, JS, and others!
 
-[![Keith's Github Stats](https://github-readme-stats.vercel.app/api?username=KeithKhaotic&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeithKhaotic&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Keith's Github Stats](https://github-readme-stats.vercel.app/api?username=KeithKhaotic&theme=synthwave&show_icons=true)](https://keithkhaotic.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeithKhaotic&theme=synthwave)](https://keithkhaotic.github.io)
 
 
 # Socials
