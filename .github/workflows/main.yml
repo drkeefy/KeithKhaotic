@@ -10,6 +10,10 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master/@main
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+
+- uses: lowlighter/metrics@master/main
+  with:
+    config_presets: "@lunar-red"
