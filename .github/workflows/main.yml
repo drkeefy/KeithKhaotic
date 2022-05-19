@@ -3,7 +3,7 @@ uses: lowlighter/metrics@latest
 with:
   filename: metrics.classic.svg
   token: ${{ secrets.METRICS_TOKEN }}
-  base: header, repositories
+  base: header, repositories, plugin_isocalendar
   plugin_lines: yes
 - uses: lowlighter/metrics@latest
   with:
