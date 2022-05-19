@@ -1,10 +1,10 @@
 name: Example
-uses: lowlighter/metrics@latest
+uses: lowlighter/metrics@classic
 with:
   filename: metrics.classic.svg
   token: ${{ secrets.METRICS_TOKEN }}
   base: header, repositories, plugin_isocalendar
   plugin_lines: yes
-- uses: lowlighter/metrics@latest
+- uses: lowlighter/metrics@classic
   with:
     config_presets: https://raw.githubusercontent.com/lowlighter/metrics/presets/lunar-red/preset.yaml
