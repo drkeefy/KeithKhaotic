@@ -35,6 +35,9 @@ Have any questions? Join my [Discord](https://dsc.gg/pgwecn) or my [Guilded](htt
 Business: keithbussyness@gmail.com
 PGWECN: pgwecnproductions@gmail.com
 
+# Project
+
+![Metrics](https://metrics.lecoq.io/KeithKhaotic?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&projects=1&base.indepth=false&projects.limit=4&projects.repositories=https%3A%2F%2Fgithub.com%2Fstars%2FKeithKhaotic%2Flists%2Fmy-projects&projects.descriptions=false&config.timezone=America%2FChicago&config.twemoji=true)
 
 
 <!---
