@@ -14,7 +14,8 @@ Here's more about me!
 🤗 Training in CSS, HTML, JS, and others!
 
 [![Keith's Github Stats](https://github-readme-stats.vercel.app/api?username=KeithKhaotic&theme=synthwave&show_icons=true)](https://keithkhaotic.github.io)
-![Metrics](/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/KeithKhaotic?template=classic&isocalendar=1&languages=1&base.indepth=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FChicago)
+
 
 
 # Socials
