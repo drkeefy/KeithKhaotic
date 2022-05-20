@@ -15,10 +15,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
 name: Full-year calendar
-uses: lowlighter/metrics@master/main
+uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.isocalendar.fullyear.svg
   token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
+  base: "plugin_isocalendar"
   plugin_isocalendar: yes
   plugin_isocalendar_duration: full-year
