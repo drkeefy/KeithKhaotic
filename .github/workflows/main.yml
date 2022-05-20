@@ -26,6 +26,4 @@ jobs:
           plugin_code_visibility: public
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-plugin_anilist: yes
-  plugin_anilist_sections: characters
-  plugin_anilist_limit_characters: 22
+
