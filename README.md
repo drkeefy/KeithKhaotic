@@ -15,6 +15,8 @@ Here's more about me!
 
 [![Keith's Github Stats](https://github-readme-stats.vercel.app/api?username=KeithKhaotic&theme=synthwave&show_icons=true)](https://keithkhaotic.github.io)
 ![Metrics](https://metrics.lecoq.io/KeithKhaotic?template=classic&isocalendar=1&repositories=1&base.indepth=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&config.timezone=America%2FChicago&config.presets=%40lunar-red)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/411734658347433985)
+
 
 
 
