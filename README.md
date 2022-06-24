@@ -33,9 +33,6 @@ height="50"></a>
 <a href="https://canva.com"><img src="https://github.com/KeithKhaotic/KeithKhaotic/blob/images/image_2022-06-18_182439526.png?raw=true"
 width="50"
 height="50"></a>
-<a href="https://canva.com"><img src="https://github.com/KeithKhaotic/KeithKhaotic/blob/images/image_2022-06-18_182452278.png?raw=true"
-width="50"
-height="50"></a>
 <a href="https://www.adobe.com/products/premiere/campaign/pricing.html?sdid=KKQOM&mv=search&ef_id=CjwKCAjwwdWVBhA4EiwAjcYJEEYhV92xsemihCXM9w6OFPNJzmRkmf7_DhHJ3oxs1D3qU7jo-3KSrBoChcgQAvD_BwE:G:s&s_kwcid=AL!3085!3!383822106390!e!!g!!premiere%20pro!1712852043!83993219728&gclid=CjwKCAjwwdWVBhA4EiwAjcYJEEYhV92xsemihCXM9w6OFPNJzmRkmf7_DhHJ3oxs1D3qU7jo-3KSrBoChcgQAvD_BwE"><img src="https://github.com/KeithKhaotic/KeithKhaotic/blob/images/image_2022-06-18_182452278.png?raw=true"
 width="50"
 height="50"></a>
