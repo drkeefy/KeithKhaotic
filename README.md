@@ -1,5 +1,5 @@
 
-## Howdy!!
+# Howdy!!
 
 👋 My name is Keith Khaotic! I'm a YouTuber, Twitch Streamer, and Content Creator
 
@@ -12,6 +12,14 @@ Here's more about me!
 🧸 Fun Fact: I'm actually secretly an Alien in disguise haunting humanity :D
 
 🤗 Training in CSS, HTML, JS, and others!
+
+## Favorite Programs/Languages/Tools
+
+<a href="https://huggingface.co"><img src="https://github.com/KeithKhaotic/KeithKhaotic/blob/images/image_2022-06-18_182131235.png?raw=true"
+width="50"
+height="50"></a>
+
+
 
 [![Keith's Github Stats](https://github-readme-stats.vercel.app/api?username=KeithKhaotic&theme=synthwave&show_icons=true)](https://keithkhaotic.github.io)
 
