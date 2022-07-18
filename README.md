@@ -41,7 +41,7 @@ height="50"></a>
 
 [![Keith's Github Stats](https://github-readme-stats.vercel.app/api?username=KeithKhaotic&theme=synthwave&show_icons=true)](https://keithkhaotic.github.io)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/411734658347433985)](https://discord.com/users/411734658347433985)
+[![Discord Presence](https://lanyard.cnrad.dev/api/826976100307304479)](https://discord.com/users/826976100307304479)
 
 
 
