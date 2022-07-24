@@ -54,7 +54,7 @@ height="50"></a>
 🖤[TikToker](https://www.tiktok.com/@keefykliped?lang=en)
 💖[Epik Gaymer](https://www.rankone.global/keefy)
 
-Have any questions? Join my [Discord](https://dsc.gg/pgwecn) or my [Guilded](https://guilded.gg/pgwecn)
+Have any questions? Join my [Discord](https://dsc.gg/giraffe) or my [Guilded](https://guilded.gg/pgwecn)
 
 <3<3<3
 
