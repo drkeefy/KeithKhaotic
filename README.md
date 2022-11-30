@@ -51,8 +51,8 @@ height="50"></a>
 
 
 💔[YouTuber](https://bit.ly/2VXMxzH)
-💜[Twitch Streamer](https://twitch.tv/pgwecn)
-🖤[TikToker](https://www.tiktok.com/@keefykliped?lang=en)
+💜[Twitch Streamer](https://twitch.tv/drkeefy)
+🖤[TikToker](https://www.tiktok.com/@drkeefy)
 💖[Epik Gaymer](https://www.rankone.global/keefy)
 
 Have any questions? Join my [Discord](https://dsc.gg/giraffe) or my [Guilded](https://guilded.gg/pgwecn)
