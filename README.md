@@ -1,17 +1,18 @@
 
 # Howdy!!
 
-👋 My name is Keith Khaotic! I'm a YouTuber, Twitch Streamer, and Content Creator
+## My name is Docta Keefy!
 
-Here's more about me!
+I'm an Alien from <a href="https://bit.ly/PGWECN>#PGWECN</a>
 
-🌟 Femboy 4 Lyfe
+I know the basics of CSS, HTML & JS
 
-👁️ Gamer, Radchad, Writer, and cool kid.
+Check out my site!
 
-🧸 Fun Fact: I'm actually secretly an Alien in disguise haunting humanity :D
+https://bit.ly/KeefyOnTheClock
 
-🤗 Training in CSS, HTML, JS, and others!
+Have a wonderful day!
+
 
 ## Favorite Programs/Languages/Tools
 
@@ -60,8 +61,7 @@ Have any questions? Join my [Discord](https://dsc.gg/giraffe) or my [Guilded](ht
 
 # Contact
 
-Business: keithbussyness@gmail.com
-PGWECN: pgwecnproductions@gmail.com
+Business: keefybussiness@gmail.com
 
 
 <!---
