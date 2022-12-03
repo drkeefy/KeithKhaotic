@@ -9,7 +9,7 @@ I know the basics of CSS, HTML & JS
 
 Check out my site!
 
-https://bit.ly/KeefyOnTheClock
+https://bit.ly/KeeefyOnTheClock
 
 Have a wonderful day!
 
